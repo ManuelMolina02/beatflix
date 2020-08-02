@@ -12,11 +12,8 @@
 
 > Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
+[![licence mit](https://img.shields.io/badge/licence-MIT-violet.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
 
-<p align="center">
-<a href="https://insomnia.rest/run/?label=NLW%201.0%20-%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 ## Como rodar o projeto?
 
