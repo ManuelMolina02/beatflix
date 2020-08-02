@@ -1,0 +1,144 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Entrevistas",
+      "cor": "#EA4335",
+      "link_extra": {
+        "text": "Visão e Posicionamento dos Artistas"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Clipes",
+      "cor": "#673ab7",
+      "link_extra": {
+        "text": "Produções Audiovisuais"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Álbuns",
+      "cor": "#ff5722",
+      "link_extra": {
+        "text": "Rap Nacional"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 3,
+      "titulo": "Póstumo - Sabotage",
+      "url": "https://www.youtube.com/watch?v=Cuuc-7-vQC0&list=PL8Kp5TdCuTa0bRjViQwoQD00Q40FdpMzj"
+    },
+    {
+      "id": 2,
+      "categoriaId": 3,
+      "titulo": "Bluesman - Baco Exu do Blues",
+      "url": "https://www.youtube.com/watch?v=wk-Eg7QjCWI&t=1292s"
+    },
+    {
+      "id": 3,
+      "categoriaId": 3,
+      "titulo": "A autoridade da razão - Parteum",
+      "url": "https://www.youtube.com/watch?v=Z6MFWBuT5GI"
+    },
+    {
+      "id": 4,
+      "categoriaId": 3,
+      "titulo": "Sinto Muito - Duda Beat",
+      "url": "https://www.youtube.com/watch?v=Z2rWqJQNM3A"
+    },
+    {
+      "id": 5,
+      "categoriaId": 3,
+      "titulo": "Black Alien - Babylon by Gus Volume I",
+      "url": "https://www.youtube.com/watch?v=b-K2Ik-eLwM&t=99s"
+    },
+    {
+      "id": 6,
+      "categoriaId": 3,
+      "titulo": "Galanga Livre - Rincon Sapiência",
+      "url": "https://www.youtube.com/watch?v=7sgsMuqfnWA"
+    },
+    {
+      "id": 7,
+      "categoriaId": 3,
+      "titulo": "Nó na Orelha - Criolo",
+      "url": "https://www.youtube.com/watch?v=ajJ2_WM1EIg&t=330s"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Mano Brown, um sobrevivente do inferno. ",
+      "url": "https://www.youtube.com/watch?v=gMT9cXizDYQ"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "Meu Nome é Correria - Mano Brown",
+      "url": "https://www.youtube.com/watch?v=TCdQ5FHKOc0&t=1s"
+    },
+    {
+      "id": 10,
+      "categoriaId": 1,
+      "titulo": "Roda Viva - Emicida",
+      "url": "https://www.youtube.com/watch?v=pDV3SGzV3m4"
+    },
+    {
+      "id": 11,
+      "categoriaId": 1,
+      "titulo": "Espelho - Criolo e Lázaro Ramos",
+      "url": "https://www.youtube.com/watch?v=eP86LuPwUYk&t=18s"
+    },
+    {
+      "id": 12,
+      "categoriaId": 1,
+      "titulo": "Entrevista - Sabotage",
+      "url": "https://www.youtube.com/watch?v=Dk0jt6V3ynE&t=56s"
+    },
+    {
+      "id": 13,
+      "categoriaId": 1,
+      "titulo": "Roda Viva  - Mano Brown",
+      "url": "https://www.youtube.com/watch?v=IaQWmNkqkSg&t=521s"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Um Bom Lugar - Sabotage",
+      "url": "https://www.youtube.com/watch?v=mC_vrzqYfQc"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "Final Form - Sampa The Great",
+      "url": "https://www.youtube.com/watch?v=H2lvgKDpiSA"
+    },
+    {
+      "id": 16,
+      "categoriaId": 2,
+      "titulo": "Bluesman - Baco Exú do Blues",
+      "url": "https://www.youtube.com/watch?v=-xFz8zZo-Dw"
+    },
+    {
+      "id": 17,
+      "categoriaId": 2,
+      "titulo": "Like Sugar - Chaka Khan",
+      "url": "https://www.youtube.com/watch?v=RecY5iZn6B0"
+    },
+    {
+      "id": 17,
+      "categoriaId": 2,
+      "titulo": "Subirusdoistiozin - Criolo",
+      "url": "https://www.youtube.com/watch?v=Da04TlloTg0"
+    },
+    {
+      "id": 18,
+      "categoriaId": 2,
+      "titulo": "That's My Way - Edi Rock ft. Seu Jorge",
+      "url": "https://www.youtube.com/watch?v=ysfm_adxRrI"
+    }
+  ]
+}
