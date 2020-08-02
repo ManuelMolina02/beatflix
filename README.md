@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-    <img alt="Tela inicial da aplicação mobile" width="156px" height="276px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/phone1.png" />
+    <img alt="Tela inicial da aplicação mobile" width="25%"" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/phone1.png" />
   
-  <img alt="Tela inicial da aplicação web" width="500px" height="276px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home01.png" />
+  <img alt="Tela inicial da aplicação web" width="75%" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home01.png" />
 </p>
 <p align="center">
  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
