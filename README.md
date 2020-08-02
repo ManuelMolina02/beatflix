@@ -8,7 +8,7 @@
 <p align="center">
     <img alt="Logo do projeto" width="200px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/phone1.png" />
   
-  <img alt="Logo do projeto" width="680px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home01.png" />
+  <img alt="Logo do projeto" width="700px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home01.png" />
 </p>
 <p align="center">
   <img alt="Logo do projeto" width="500px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home02.png" />
