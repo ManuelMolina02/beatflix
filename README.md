@@ -6,7 +6,7 @@
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
 
 <p align="center">
-  <img alt="Logo do projeto" width="200px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/logo.png" />
+  <img alt="Logo do projeto" width="200px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home01.png" />
 </p>
 
 > Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
