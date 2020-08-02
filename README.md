@@ -1,4 +1,7 @@
-# Aluraflix
+
+<p align="center">
+  <img alt="Logo do projeto" width="200px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/logo.png" />
+</p>
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
 
