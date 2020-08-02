@@ -6,7 +6,7 @@
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
 
 <p align="center">
-    <img alt="Logo do projeto" width="500px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/smart01.png" />
+    <img alt="Logo do projeto" width="200px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/phone1.png" />
   
   <img alt="Logo do projeto" width="500px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home01.png" />
 </p>
