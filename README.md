@@ -8,10 +8,10 @@
 <p align="center">
     <img alt="Logo do projeto" width="200px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/phone1.png" />
   
-  <img alt="Logo do projeto" width="700px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home01.png" />
+  <img alt="Logo do projeto" width="710px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home01.png" />
 </p>
 <p align="center">
-  <img alt="Logo do projeto" width="500px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home02.png" />
+  <img alt="Logo do projeto" width="800px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home02.png" />
 </p>
 
 > Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
