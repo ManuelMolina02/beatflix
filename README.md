@@ -8,11 +8,13 @@
   
   <img alt="Tela inicial da aplicação web" width="500px" height="276px" src="https://github.com/ManuelMolina02/beatflix/blob/master/src/assets/img/home01.png" />
 </p>
+<p align="center">
+[![licence mit](https://img.shields.io/badge/licence-MIT-violet.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
+</p>
 
 
 > Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-violet.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
 
 
 ## Como rodar o projeto?
