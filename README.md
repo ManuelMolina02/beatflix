@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-## Como rodar o projeto?
+## 🤔 Como rodar o projeto?
 
 Após baixar o projeto, acesse ele via seu terminal rode os comandos:
 
@@ -37,7 +37,7 @@ npm start
 ```
 
 
-## License/Licença do Projeto
+## :memo: License/Licença do Projeto
 [MIT License](./LICENSE) © [Alura](http://alura.com.br/)
 
 
